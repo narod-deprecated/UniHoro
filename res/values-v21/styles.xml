@@ -1,0 +1,6 @@
+<resources>
+    <!-- Application theme api v21. -->
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.NoActionBar">
+        
+    </style>
+</resources>

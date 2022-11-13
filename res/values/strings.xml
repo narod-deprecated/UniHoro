@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UniHoroscope</string>
+    <string name="title_activity_view">Просмотр</string>
+    <string name="no_img_str">img</string>
+    <string name="unknown_str">Неизвестно</string>
+    <string name="title_push_more_button_activity_view">Подробнее</string>
+    <string name="title_more_button_activity_view">Скрыть</string>
+    <string name="title_progress_dialog">Загрузка&#8230;</string>
+    <string name="text_progress_dialog">Ждите</string>
+    <string name="about"><a href="http://board.srcblog.ru">Разработчик: LiteSoftTeam</a></string>
+
+</resources>
